@@ -1,6 +1,4 @@
 site_name: TeleGPT docs
-site_url: https://docs.telegpt.guru
-
 theme:
     name: material
     favicon: static/img/favicon.ico
