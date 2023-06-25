@@ -1,5 +1,27 @@
-site_name: TeleGPT Docs
+site_name: TeleGPT docs
+site_url: https://docs.telegpt.guru
+
 theme:
     name: material
-# plugins:
-#   - blog
+    favicon: static/img/favicon.ico
+    logo: static/img/logo.png
+extra_css:
+    - static/css/custom.css
+nav:
+    - 'TeleGPT': 'index.md'
+    - 'User guide': 
+        - 'Referral code': 'user-guide/referral-code.md'
+        - 'Team invitation code': 'user-guide/team-code.md'
+plugins:
+    - search
+    - i18n:
+        default_language: en
+        docs_structure: folder
+        languages:
+            en: English
+            vi: Tiếng Việt
+        nav_translations:
+            vi:
+                'User guide': Hướng dãn người dùng
+                'Referral code': Mã giới thiệu
+                'Team invitation code': Mã tham gia nhóm

@@ -1,0 +1,7 @@
+:root {
+  --md-primary-fg-color: #364935
+}
+
+.md-content p {
+  text-align: justify;
+}
