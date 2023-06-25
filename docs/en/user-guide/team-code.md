@@ -10,23 +10,23 @@ You can get your team invitation code if you are the team owner. There are 2 way
 
 * **Using command**: Open TeleGPT in platform link with your account (Telegram, Zalo, Messenger) then send `/team_code` command:
 
-![Success](static/img/team-code/1.png)
+![Success](../../static/img/team-code/1.png)
 
 * **At team management dashboard**: You can get your team invitation code at Team Information Section in your team management dashboard
 
-![Success](static/img/team-code/2.png)
+![Success](../../static/img/team-code/2.png)
 
 ## 3. How to to use team invitation code?
 If you get a invitation code from your friend and want to use it, open TeleGPT in any platforms (Telegram, Zalo, Messenger) then enter the code, TeleGPT will send you the result of your usage:
 
 * **Join team successfully**
 
-![Success](static/img/team-code/3.png)
+![Success](../../static/img/team-code/3.png)
 
 * **Invalid code**
 
-![Success](/static/img/team-code/4.png)
+![Success](/../../static/img/team-code/4.png)
 
 * **You has joined another team**
 
-![Success](static/img/team-code/5.png)
+![Success](../../static/img/team-code/5.png)

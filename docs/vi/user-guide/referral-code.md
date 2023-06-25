@@ -7,7 +7,7 @@ Mã giới thiệu là mã mời duy nhất được chỉ định cho mỗi ng�
 
 **Định dạng mã giới thiệu**: `t/<10 ký tự ngẫu nhiên>`
 
-![Nhận mã giới thiệu trong TeleGPT](static/img/referral-code/1.png)
+![Nhận mã giới thiệu trong TeleGPT](../../static/img/referral-code/1.png)
 
 ## 2. Cách sử dụng mã giới thiệu?
 
@@ -15,12 +15,12 @@ Nếu bạn nhận được mã giới thiệu từ bạn bè và muốn sử d�
 
 * **Đã sử dụng mã giới thiệu thành công**
 
-![Thành công](static/img/referral-code/2.png)
+![Thành công](../../static/img/referral-code/2.png)
 
 * **Mã không hợp lệ**
 
-![Thành công](static/img/referral-code/3.png)
+![Thành công](../../static/img/referral-code/3.png)
 
 * **Tài khoản của bạn đã nhập mã giới thiệu trước đó**
 
-![Thành công](static/img/referral-code/4.png)
+![Thành công](../../static/img/referral-code/4.png)

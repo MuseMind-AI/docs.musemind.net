@@ -7,7 +7,7 @@ To receive your referral code, open TeleGPT in any platforms you used (Telegram,
 
 **Referral code format**: `t/<10 random characters>`
 
-![Get referral code in TeleGPT](static/img/referral-code/1.png)
+![Get referral code in TeleGPT](../../static/img/referral-code/1.png)
 
 ## 2. How to use referral code?
 
@@ -15,12 +15,12 @@ If you get a referral code from your friend and want to use it, open TeleGPT in 
 
 * **Used referral code successfully**
 
-![Success](static/img/referral-code/2.png)
+![Success](../../static/img/referral-code/2.png)
 
 * **Invalid code**
 
-![Success](static/img/referral-code/3.png)
+![Success](../../static/img/referral-code/3.png)
 
 * **Your account has already enter referral code before**
 
-![Success](static/img/referral-code/4.png)
+![Success](../../static/img/referral-code/4.png)
