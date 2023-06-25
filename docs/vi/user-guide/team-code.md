@@ -10,23 +10,23 @@ Bạn có thể nhận mã mời nhóm của mình nếu bạn là chủ sở h�
 
 * **Sử dụng lệnh**: Mở TeleGPT trong nền tảng liên kết với tài khoản của bạn (Telegram, Zalo, Messenger) sau đó gửi lệnh `/team_code`:
 
-![Thành công](/static/img/team-code/1.png)
+![Thành công](static/img/team-code/1.png)
 
 * **Tại bảng điều khiển quản lý nhóm**: Bạn có thể lấy mã mời tham gia nhóm của mình tại Phần Thông tin nhóm trong bảng điều khiển quản lý nhóm của bạn
 
-![Thành công](/static/img/team-code/2.png)
+![Thành công](static/img/team-code/2.png)
 
 ## 3. Làm thế nào để sử dụng mã mời nhóm?
 Nếu bạn nhận được mã mời từ bạn bè và muốn sử dụng, hãy mở TeleGPT trên mọi nền tảng (Telegram, Zalo, Messenger) sau đó nhập mã, TeleGPT sẽ gửi cho bạn kết quả sử dụng:
 
 * **Tham gia nhóm thành công**
 
-![Thành công](/static/img/team-code/3.png)
+![Thành công](static/img/team-code/3.png)
 
 * **Mã không hợp lệ**
 
-![Thành công](/static/img/team-code/4.png)
+![Thành công](static/img/team-code/4.png)
 
 * **Bạn đã tham gia một đội khác**
 
-![Thành công](/static/img/team-code/5.png)
+![Thành công](static/img/team-code/5.png)
