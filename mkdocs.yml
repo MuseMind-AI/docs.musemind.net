@@ -1,0 +1,5 @@
+site_name: TeleGPT Docs
+theme:
+    name: material
+# plugins:
+#   - blog
