@@ -23,6 +23,7 @@ jobs:
             mkdocs-material-
       - run: pip install mkdocs-material 
       - run: pip install mkdocs-static-i18n
-      - echo "docs.telegpt.guru" > site/CNAME
+      - run: mkdir site
+      - run: echo "docs.telegpt.guru" > site/CNAME
       - run: mkdocs gh-deploy --force
 
