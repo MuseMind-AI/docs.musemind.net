@@ -11,8 +11,8 @@ To receive your referral code, open TeleGPT in any platforms you used (Telegram,
 
 TeleGPT Chatbot in Popular Chat Apps:
 
- - Telegram: https://t.me/xtelegpt_bot  
- - Messenger: https://m.me/telegpt.ai.assistant
+ - Telegram: [https://t.me/xtelegpt_bot](https://t.me/xtelegpt_bot)  
+ - Messenger: [https://m.me/telegpt.ai.assistant](https://m.me/telegpt.ai.assistant)
 
 
 ## 2. How to use referral code?

@@ -9,9 +9,10 @@ Mã giới thiệu là mã mời duy nhất được chỉ định cho mỗi ng�
 
 Link để mở TeleGPT trên các nền tảng phổ biến: 
 
- - Telegram: https://t.me/xtelegpt_bot 
- - Zalo: https://zalo.me/446719740430528402 
- - Messenger: https://m.me/telegpt.ai.assistant
+ - Telegram: [https://t.me/xtelegpt_bot](https://t.me/xtelegpt_bot)  
+ - Messenger: [https://m.me/telegpt.ai.assistant](https://m.me/telegpt.ai.assistant)
+ - Zalo: [https://zalo.me/446719740430528402](https://zalo.me/446719740430528402) 
+ 
 
 ![Nhận mã giới thiệu trong TeleGPT](../../static/img/referral-code/1.png)
 
