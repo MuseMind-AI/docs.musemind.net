@@ -7,6 +7,12 @@ Mã giới thiệu là mã mời duy nhất được chỉ định cho mỗi ng�
 
 **Định dạng mã giới thiệu**: `t/<10 ký tự ngẫu nhiên>`
 
+Link để mở TeleGPT trên các nền tảng phổ biến: 
+
+ - Telegram: https://t.me/xtelegpt_bot 
+ - Zalo: https://zalo.me/446719740430528402 
+ - Messenger: https://m.me/telegpt.ai.assistant
+
 ![Nhận mã giới thiệu trong TeleGPT](../../static/img/referral-code/1.png)
 
 ## 2. Cách sử dụng mã giới thiệu?
