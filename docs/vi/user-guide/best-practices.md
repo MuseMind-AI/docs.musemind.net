@@ -64,9 +64,9 @@ Ví dụ:
 
 
 
-## 8.  Cung cấp trước thông tin cho GPT
+## 8.  Cung cấp trước thông tin cho TeleGPT
 
- Việc cung cấp thông tin trước cho GPT sẽ giúp định hình của AI. Khi Ai có những thông tin cụ thể sẽ đưa cho bạn câu trả lời phù hợp nhất.
+ Việc cung cấp thông tin trước cho TeleGPT sẽ giúp định hình của AI. Khi Ai có những thông tin cụ thể sẽ đưa cho bạn câu trả lời phù hợp nhất.
  
  Ví dụ: 
 
