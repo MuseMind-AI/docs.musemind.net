@@ -72,6 +72,6 @@ Ví dụ:
 
     Prompt 1: Sơ yếu lý lịch của Nguyễn Văn A: [dán sơ yếu lý lịch đầy đủ vào đây]. Với những thông tin trên, hãy viết một tiểu sử diễn giả thật dí dỏm về Nguyễn Văn A.
 
-    Prompt 2: Prompt 2: [Dán toàn bộ văn bản của bài viết vào đây]. Tóm tắt nội dung bài viết trên với 3 gạch đầu dòng.
+    Prompt 2: [Dán toàn bộ văn bản của bài viết vào đây]. Tóm tắt nội dung bài viết trên với 3 gạch đầu dòng.
 
 
