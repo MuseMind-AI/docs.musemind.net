@@ -68,5 +68,5 @@ Providing information beforehand to GPT helps shape the AI's response. When AI h
  
  Example: 
 
-    Prompt 1: Curriculum Vitae of Nguyen Van A: [paste complete curriculum vitae here]. With the given information, write a humorous biography about Nguyen Van A.
+    Prompt 1: Curriculum Vitae of A: [paste complete curriculum vitae here]. With the given information, write a humorous biography about A.
     Prompt 2: [Paste the entire text of the article here]. Summarize the content of the article above with three bullet points.
