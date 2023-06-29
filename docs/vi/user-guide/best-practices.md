@@ -47,22 +47,20 @@ Ví dụ:
 ## 6. Đưa ra yêu cầu cải thiện trong đoạn hội thoại
 Ví dụ: 
 
-    Prompt 1: Đưa ra yêu cầu cải thiện trong trả lời ngắn gọn
-    Người dùng: "Xin chào! Tôi cần một số thông tin về việc chăm sóc cây cỏ. Bạn có thể giúp tôi không?"
-    TeleGPT: "Tất nhiên! Tôi có thể giúp bạn với vấn đề đó. Bạn có câu hỏi cụ thể nào về chăm sóc cây cỏ?"
-    Yêu cầu cải thiện: "Tôi cần những hướng dẫn cụ thể và thông tin chi tiết về cách chăm sóc cây cỏ. Bạn có thể cung cấp những lời khuyên cụ thể và bước thực hiện được không?"
+    Trong một đoạn hội thoại liên tục, TeleGPT có thể “học” được bối cảnh đã nêu để áp dụng vào câu trả lời kế tiếp.
 
-    Lời yêu cầu cải thiện này giúp rõ ràng hơn về mong đợi của người dùng, yêu cầu các lời khuyên cụ thể và bước thực hiện. Điều này giúp TeleGPT đưa ra câu trả lời chi tiết và hữu ích hơn cho người dùng.
+    Chính vì thế, bạn có thể cải tiến phần trả lời của AI bằng cách đưa thêm thông tin hoặc những hướng dẫn chi tiết hơn, chẳng hạn yêu cầu AI “Hãy đưa thêm ý kiến chuyên gia vào bài viết, sử dụng thông tin được cung cấp dưới đây”.
 
-    Prompt 2: Đưa ra yêu cầu cải thiện để xác định ngữ cảnh.
-    Người dùng: "Tôi muốn mua một chiếc điện thoại mới. Bạn có thể giới thiệu cho tôi một vài mẫu điện thoại tốt không?"
-    TeleGPT: "Tất nhiên, tôi có thể giới thiệu cho bạn một số mẫu điện thoại tốt. Tuy nhiên, tôi cần biết bạn muốn mua điện thoại trong tầm giá nào và các tính năng quan trọng bạn đang tìm kiếm."
-    Yêu cầu cải thiện: "Để giúp bạn chọn một chiếc điện thoại phù hợp, tôi cần biết một số thông tin như tầm giá dự kiến và các tính năng quan trọng mà bạn mong muốn có trên chiếc điện thoại. Bạn có thể cho tôi biết những yêu cầu cụ thể của bạn không?"
-    Lời yêu cầu cải thiện này yêu cầu người dùng cung cấp ngữ cảnh chi tiết hơn về tầm giá và các tính năng quan trọng. Điều này giúp TeleGPT đưa ra các gợi ý và lựa chọn phù hợp với nhu cầu cụ thể của người dùng, từ đó cung cấp thông tin hữu ích và giúp người dùng đưa ra quyết định tốt hơn.
+
     
-   Trong đoạn hội thoại liên tục, nó có thể “học” được bối cảnh đã nêu để áp dụng vào câu trả lời tiếp theo. Do vậy bạn có thể cải tiến câu trả lời của AI bằng cách đưa thêm thông tin hoặc các hướng dẫn chi tiết, như yêu cầu AI “Hãy đưa ra nhiều ý kiến chuyên gia vào bài viết, sử dụng thông tin được cung cấp dưới đây”. Có thể yêu cầu "Hãy nghĩ ngược lại" nếu AI tiếp tục đưa ra các kết luận không chính xác.
+  
 
 ## 7.  Hỏi thêm các câu hỏi để hiểu rõ ý hơn
+Ví dụ: 
+
+     Người dùng: Chatgpt là gì?
+     TeleGPT: ChatGPT là một mô hình ngôn ngữ tự nhiên (NLP) được phát triển bởi OpenAI. Nó dựa trên kiến trúc...............
+     Người dùng: Giúp tôi hiểu rõ hơn về mô hình ngôn ngữ tự nhiên
 
 
 
