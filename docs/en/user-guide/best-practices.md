@@ -62,9 +62,9 @@ Example:
      User: Help me understand more about the natural language processing model.
 
 
-## 8.  Pre-provide information to GPT
+## 8.  Pre-provide information to TeleGPT
 
-Providing information beforehand to GPT helps shape the AI's response. When AI has specific information, it can provide you with the most appropriate answer.
+Providing information beforehand to TeleGPT helps shape the AI's response. When AI has specific information, it can provide you with the most appropriate answer.
  
  Example: 
 
