@@ -54,7 +54,7 @@ Using this command to create your own team, each team can have from 1 to 100 mem
 Every time you call this command, you will get a **one-time link** to access your team management website. This mean when you logout or access from other device, you must re-call this command to get a new link, you can use an old link if you access it from the same browser in old device
 
 ## 9. /team_code
-You can use **/team_code** when you are the team admin/owner only. This command will send you your team invitation code to invite other user to the team (this invitation code can be renew in team management page). Access [here](/user-guilde/team-code) to get more information about **team invitation code**
+You can use **/team_code** when you are the team admin/owner only. This command will send you your team invitation code to invite other user to the team (this invitation code can be renew in team management page). Access [here](/user-guide/team-code) to get more information about **team invitation code**
 
 ![team_code command](../../static/img/usage/team_code.png)
 

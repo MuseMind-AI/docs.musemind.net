@@ -54,7 +54,7 @@ Sử dụng lệnh này để tạo nhóm của riêng bạn, mỗi nhóm có th
 Mỗi khi sử dụng **/team**, bạn sẽ nhận được **liên kết sử dụng 1 lần** dùng để truy cập trang web quản lý nhóm của mình. Điều này có nghĩa là khi bạn đăng xuất hoặc truy cập từ thiết bị khác, bạn phải gọi lại lệnh này để nhận một liên kết mới, bạn có thể sử dụng một liên kết cũ nếu bạn truy cập từ cùng một trình duyệt trên thiết bị trước đó
 
 ## 9. /team_code
-Bạn có thể sử dụng **/team_code** khi bạn chỉ là quản trị viên/chủ sở hữu nhóm. Lệnh này sẽ gửi cho bạn mã tham gia nhóm của bạn để mời người dùng khác vào nhóm của bạn (mã này có thể được gia hạn trong trang quản lý nhóm). Truy cập [tại đây](/vi/user-guilde/team-code) để biết thêm thông tin về **mã tham gia nhóm**
+Bạn có thể sử dụng **/team_code** khi bạn chỉ là quản trị viên/chủ sở hữu nhóm. Lệnh này sẽ gửi cho bạn mã tham gia nhóm của bạn để mời người dùng khác vào nhóm của bạn (mã này có thể được gia hạn trong trang quản lý nhóm). Truy cập [tại đây](/vi/user-guide/team-code) để biết thêm thông tin về **mã tham gia nhóm**
 
 ![lệnh team_code](../../static/img/usage/team_code.png)
 
