@@ -8,6 +8,7 @@ extra_css:
 nav:
     - 'TeleGPT': 'index.md'
     - 'User guide': 
+        - 'Commands': 'user-guide/usage.md'
         - 'Referral code': 'user-guide/referral-code.md'
         - 'Team invitation code': 'user-guide/team-code.md'
         - 'Best practices': 'user-guide/best-practices.md'
@@ -22,6 +23,7 @@ plugins:
         nav_translations:
             vi:
                 'User guide': Hướng dãn người dùng
+                'Commands': Các lệnh trong TeleGPT
                 'Referral code': Mã giới thiệu
                 'Team invitation code': Mã tham gia nhóm
                 'Best practices': Cách sử dụng hiểu quả TeleGPT
