@@ -1,1 +1,1 @@
-# https://docs.telegpt.guru
+# https://docs.abacusagi.com
