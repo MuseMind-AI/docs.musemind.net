@@ -1,38 +1,38 @@
-# TeleGPT's commands
+# Abacus AI's commands
 
 ## 1. /help
-Show all TeleGPT's commands and their functionality
+Show all Abacus AI's commands and their functionality
 
 
 ![help command](../../static/img/usage/help.png)
 
 ## 2. /ask <span class="no-bold">or</span> //
-This command is used in case you want to ask TeleGPT in Group chat, If you chat with bot privately, you do not need to use this command
+This command is used in case you want to ask Abacus AI in Group chat, If you chat with bot privately, you do not need to use this command
 
 ![ask command](../../static/img/usage/ask-1.png)
 
 ![// command](../../static/img/usage/ask-2.png)
 
-Moreover, you could tag the TeleGPT in Group chat to call it instead of using **/ask** command
+Moreover, you could tag the Abacus AI in Group chat to call it instead of using **/ask** command
 
 ![tag bot in group](../../static/img/usage/ask-3.png)
 
 ## 3. /retry
-If you are not satisfied with the received answer, you can use this command to tell TeleGPT give you another answer.
+If you are not satisfied with the received answer, you can use this command to tell Abacus AI give you another answer.
 
 ![retry command](../../static/img/usage/retry.png)
 
 ## 4. /new
-All your interactions with TeleGPT will be saved as a dialogue, which is done in order for TeleGPT to know all previous questions, the language you use, and the context of the conversation. This helps enhance the user experience and improve the accuracy of answers to subsequent questions.
+All your interactions with Abacus AI will be saved as a dialogue, which is done in order for Abacus AI to know all previous questions, the language you use, and the context of the conversation. This helps enhance the user experience and improve the accuracy of answers to subsequent questions.
 
 ![chat dialogue](../../static/img/usage/new-1.png)
 
-If you want to change the topic or if TeleGPT provides incorrect language, you can use the command **/new** to start a new dialogue and continue asking questions.
+If you want to change the topic or if Abacus AI provides incorrect language, you can use the command **/new** to start a new dialogue and continue asking questions.
 
 ![new command](../../static/img/usage/new-2.png)
 
 ## 5. /balance
-This command will show you the remain balance of your account, each query in TeleGPT will charge your balance account if your account type is **REGULAR**. Follow this link To get to know about **balance account** and **account type**.
+This command will show you the remain balance of your account, each query in Abacus AI will charge your balance account if your account type is **REGULAR**. Follow this link To get to know about **balance account** and **account type**.
 
 ![balance command](../../static/img/usage/balance.png)
 
@@ -42,7 +42,7 @@ This command is used to show your account referral code. All information about r
 ![referral command](../../static/img/usage/referral.png)
 
 ## 7. /pay
-You can use this command to get your account payment link, you can access this website to upgrade your TeleGPT plan (**PRO** or **PRO Team**)
+You can use this command to get your account payment link, you can access this website to upgrade your Abacus AI plan (**PRO** or **PRO Team**)
 
 ![pay command](../../static/img/usage/pay.png)
 
