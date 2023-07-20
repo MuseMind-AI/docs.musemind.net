@@ -1,7 +1,7 @@
 # Referral code
 
 ## 1. What is referral code?
-Referral codes are unique invitation codes assigned to each user. They serve as a way to invite friends to join Abacus AI and offer enticing rewards. When you refer a friend using your referral code, both you and your friend will receive a $2 bonus and enjoy a 1-month Abacus AI Pro Plan. TeleGPT is a robust chatbot assistant available on Telegram, utilizing artificial intelligence to deliver personalized recommendations and assistance to its users. By sharing your referral link now, you can unlock the perks of the TeleGPT Pro Plan and start benefiting from this powerful AI assistant
+Referral codes are unique invitation codes assigned to each user. They serve as a way to invite friends to join Abacus AI and offer enticing rewards. For each referral code used you will get $1 to your balance, the person who enters the code will get a $2 bonus and a 1-month TeleGPT PRO plan. TeleGPT is a robust chatbot assistant available on Telegram, utilizing artificial intelligence to deliver personalized recommendations and assistance to its users. By sharing your referral link now, you can unlock the perks of the TeleGPT Pro Plan and start benefiting from this powerful AI assistant
 
 To receive your referral code, open TeleGPT in any platforms you used (Telegram, Zalo, Messenger) and send command `/referral`
 
