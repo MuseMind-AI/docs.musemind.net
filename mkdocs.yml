@@ -3,8 +3,11 @@ theme:
     name: material
     favicon: static/img/favicon.ico
     logo: static/img/logo.png
+    features:
+        - navigation.footer
 extra_css:
     - static/css/custom.css
+# Nav
 nav:
     - 'TeleGPT': 'index.md'
     - 'User guide': 
@@ -12,6 +15,22 @@ nav:
         - 'Referral code': 'user-guide/referral-code.md'
         - 'Team invitation code': 'user-guide/team-code.md'
         - 'Best practices': 'user-guide/best-practices.md'
+    - 'Contact': 'contact.md'
+
+# Footer
+copyright: Copyright &copy; 2023 Abacusagi.
+extra:
+    generator: false
+    social:
+        -   icon: fontawesome/solid/envelope
+            link: 'mailto:support@abacusagi.com'
+            name: email support
+
+        -   icon: fontawesome/brands/telegram
+            link: 'https://t.me/telegpt_chat'
+            name: telegram
+
+
 plugins:
     - search
     - i18n:
@@ -27,3 +46,4 @@ plugins:
                 'Referral code': Mã giới thiệu
                 'Team invitation code': Mã tham gia nhóm
                 'Best practices': Cách sử dụng hiểu quả TeleGPT
+                'Contact': Liên hệ với chúng tôi
