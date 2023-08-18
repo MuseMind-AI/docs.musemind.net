@@ -15,6 +15,7 @@ nav:
         - 'Referral code': 'user-guide/referral-code.md'
         - 'Team invitation code': 'user-guide/team-code.md'
         - 'Best practices': 'user-guide/best-practices.md'
+        - 'Custom bot creation': 'user-guide/custom-bot.md'
     - 'Contact': 'contact.md'
 
 # Footer
@@ -42,8 +43,9 @@ plugins:
         nav_translations:
             vi:
                 'User guide': Hướng dãn người dùng
-                'Commands': Các lệnh trong TeleGPT
+                'Commands': Các lệnh trong TruthGPT
                 'Referral code': Mã giới thiệu
                 'Team invitation code': Mã tham gia nhóm
-                'Best practices': Cách sử dụng hiểu quả TeleGPT
+                'Custom bot creation': Tạo bot tùy chỉnh 
+                'Best practices': Cách sử dụng hiểu quả TruthGPT
                 'Contact': Liên hệ với chúng tôi
