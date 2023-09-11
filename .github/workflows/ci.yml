@@ -22,7 +22,7 @@ jobs:
           restore-keys: |
             mkdocs-material-
       - run: pip install mkdocs-material 
-      - run: pip install mkdocs-static-i18n
+      - run: pip install mkdocs-static-i18n==1.0.3
       - run: mkdir site
       - run: echo "docs.musemind.net" > site/CNAME
       - run: mkdocs gh-deploy --force

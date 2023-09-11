@@ -38,8 +38,17 @@ plugins:
         default_language: en
         docs_structure: folder
         languages:
-            - en: English
-            - vi: "Tiếng Việt"
+            - locale: en
+              default: true
+              name: English
+              build: true
+              site_name: "MuseMind Docs"
+            - locale: vi
+              default: false
+              name: Tiếng Việt
+              build: true
+              site_name: "MuseMind Docs - Tiếng Việt"
+
         nav_translations:
             vi:
                 'User guide': Hướng dãn người dùng
