@@ -38,8 +38,8 @@ plugins:
         default_language: en
         docs_structure: folder
         languages:
-            en: English
-            vi: Tiếng Việt
+            - en: English
+            - vi: Tiếng Việt
         nav_translations:
             vi:
                 'User guide': Hướng dãn người dùng
