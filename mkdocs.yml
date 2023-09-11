@@ -1,4 +1,4 @@
-site_name: TeleGPT docs
+site_name: MuseMind docs
 theme:
     name: material
     favicon: static/img/favicon.ico
@@ -9,7 +9,7 @@ extra_css:
     - static/css/custom.css
 # Nav
 nav:
-    - 'TeleGPT': 'index.md'
+    - 'MuseMind': 'index.md'
     - 'User guide': 
         - 'Commands': 'user-guide/usage.md'
         - 'Referral code': 'user-guide/referral-code.md'
@@ -19,12 +19,12 @@ nav:
     - 'Contact': 'contact.md'
 
 # Footer
-copyright: Copyright &copy; 2023 Abacusagi.
+copyright: Copyright &copy; 2023 MuseMind.
 extra:
     generator: false
     social:
         -   icon: fontawesome/solid/envelope
-            link: 'mailto:support@abacusagi.com'
+            link: 'mailto:support@musemind.net'
             name: email support
 
         -   icon: fontawesome/brands/telegram

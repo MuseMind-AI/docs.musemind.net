@@ -1,5 +1,8 @@
 :root {
-  --md-primary-fg-color: #364935
+  --md-primary-fg-color: #162D2D;
+  --md-primary-fg-color--light: #A69F96;
+  --md-footer-bg-color: #648C94;
+  --md-footer-bg-color--dark: #162D2D;
 }
 
 .md-content p {
