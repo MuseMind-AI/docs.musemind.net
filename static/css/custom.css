@@ -1,0 +1,28 @@
+:root {
+  --md-primary-fg-color: #162D2D;
+  --md-primary-fg-color--light: #A69F96;
+  --md-footer-bg-color: #648C94;
+  --md-footer-bg-color--dark: #162D2D;
+}
+
+.md-content p {
+  text-align: justify;
+}
+
+p a {
+  color: var(--md-accent-fg-color) !important
+}
+
+h2 {
+  margin-top: 16px !important;
+}
+
+h3 {
+  margin-left: 8px !important;
+  font-style: italic !important;
+}
+
+h2 .no-bold {
+  font-weight: 200;
+  font-size: 0.9rem
+}

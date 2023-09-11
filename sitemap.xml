@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>None./</loc>
+        <lastmod>2023-09-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="None"/>
+        <xhtml:link rel="alternate" hreflang="vi" href="Nonevi/"/>
+    </url>
+    <url>
+        <loc>Nonecontact/</loc>
+        <lastmod>2023-09-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonecontact/"/>
+        <xhtml:link rel="alternate" hreflang="vi" href="Nonevi/contact/"/>
+    </url>
+    <url>
+        <loc>Noneuser-guide/best-practices/</loc>
+        <lastmod>2023-09-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneuser-guide/best-practices/"/>
+        <xhtml:link rel="alternate" hreflang="vi" href="Nonevi/user-guide/best-practices/"/>
+    </url>
+    <url>
+        <loc>Noneuser-guide/custom-bot/</loc>
+        <lastmod>2023-09-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneuser-guide/custom-bot/"/>
+        <xhtml:link rel="alternate" hreflang="vi" href="Nonevi/user-guide/custom-bot/"/>
+    </url>
+    <url>
+        <loc>Noneuser-guide/referral-code/</loc>
+        <lastmod>2023-09-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneuser-guide/referral-code/"/>
+        <xhtml:link rel="alternate" hreflang="vi" href="Nonevi/user-guide/referral-code/"/>
+    </url>
+    <url>
+        <loc>Noneuser-guide/team-code/</loc>
+        <lastmod>2023-09-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneuser-guide/team-code/"/>
+        <xhtml:link rel="alternate" hreflang="vi" href="Nonevi/user-guide/team-code/"/>
+    </url>
+    <url>
+        <loc>Noneuser-guide/usage/</loc>
+        <lastmod>2023-09-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneuser-guide/usage/"/>
+        <xhtml:link rel="alternate" hreflang="vi" href="Nonevi/user-guide/usage/"/>
+    </url>
+    <url>
+        <loc>Nonevi/</loc>
+        <lastmod>2023-09-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="vi" href="Nonevi/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="None"/>
+    </url>
+    <url>
+        <loc>Nonevi/contact/</loc>
+        <lastmod>2023-09-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="vi" href="Nonevi/contact/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonecontact/"/>
+    </url>
+    <url>
+        <loc>Nonevi/user-guide/best-practices/</loc>
+        <lastmod>2023-09-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="vi" href="Nonevi/user-guide/best-practices/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneuser-guide/best-practices/"/>
+    </url>
+    <url>
+        <loc>Nonevi/user-guide/custom-bot/</loc>
+        <lastmod>2023-09-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="vi" href="Nonevi/user-guide/custom-bot/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneuser-guide/custom-bot/"/>
+    </url>
+    <url>
+        <loc>Nonevi/user-guide/referral-code/</loc>
+        <lastmod>2023-09-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="vi" href="Nonevi/user-guide/referral-code/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneuser-guide/referral-code/"/>
+    </url>
+    <url>
+        <loc>Nonevi/user-guide/team-code/</loc>
+        <lastmod>2023-09-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="vi" href="Nonevi/user-guide/team-code/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneuser-guide/team-code/"/>
+    </url>
+    <url>
+        <loc>Nonevi/user-guide/usage/</loc>
+        <lastmod>2023-09-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="vi" href="Nonevi/user-guide/usage/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneuser-guide/usage/"/>
+    </url>
+</urlset>

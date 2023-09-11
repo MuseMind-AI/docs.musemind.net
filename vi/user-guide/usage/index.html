@@ -1,0 +1,755 @@
+
+<!doctype html>
+<html lang="vi" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+        <link rel="prev" href="../../">
+      
+      
+        <link rel="next" href="../referral-code/">
+      
+      
+      <link rel="icon" href="../../../static/img/favicon.ico">
+      <meta name="generator" content="mkdocs-1.5.2, mkdocs-material-9.2.8">
+    
+    
+      
+        <title>Commands - MuseMind Docs - Tiếng Việt</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../../assets/stylesheets/main.046329b4.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../../../static/css/custom.css">
+    
+    <script>__md_scope=new URL("../../..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    <body dir="ltr">
+  
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&"object"==typeof palette.color)for(var key of Object.keys(palette.color))document.body.setAttribute("data-md-color-"+key,palette.color[key])</script>
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#cac-lenh-trong-telegpt" class="md-skip">
+          Bỏ qua
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Đầu trang">
+    <a href="../../" title="MuseMind Docs - Tiếng Việt" class="md-header__button md-logo" aria-label="MuseMind Docs - Tiếng Việt" data-md-component="logo">
+      
+  <img src="../../../static/img/logo.png" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            MuseMind Docs - Tiếng Việt
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Commands
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+    
+      <div class="md-header__option">
+  <div class="md-select">
+    
+    <button class="md-header__button md-icon" aria-label="Chọn ngôn ngữ">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m12.87 15.07-2.54-2.51.03-.03A17.52 17.52 0 0 0 14.07 6H17V4h-7V2H8v2H1v2h11.17C11.5 7.92 10.44 9.75 9 11.35 8.07 10.32 7.3 9.19 6.69 8h-2c.73 1.63 1.73 3.17 2.98 4.56l-5.09 5.02L4 19l5-5 3.11 3.11.76-2.04M18.5 10h-2L12 22h2l1.12-3h4.75L21 22h2l-4.5-12m-2.62 7 1.62-4.33L19.12 17h-3.24Z"/></svg>
+    </button>
+    <div class="md-select__inner">
+      <ul class="md-select__list">
+        
+          <li class="md-select__item">
+            <a href="../../../user-guide/usage/" hreflang="en" class="md-select__link">
+              English
+            </a>
+          </li>
+        
+          <li class="md-select__item">
+            <a href="./" hreflang="vi" class="md-select__link">
+              Tiếng Việt
+            </a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+</div>
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Tìm kiếm" placeholder="Tìm kiếm" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Tìm kiếm">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Xoá" aria-label="Xoá" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Thanh điều hướng" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../../" title="MuseMind Docs - Tiếng Việt" class="md-nav__button md-logo" aria-label="MuseMind Docs - Tiếng Việt" data-md-component="logo">
+      
+  <img src="../../../static/img/logo.png" alt="logo">
+
+    </a>
+    MuseMind Docs - Tiếng Việt
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    MuseMind
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+    
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+        
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" checked>
+        
+          <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    User guide
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            User guide
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+    
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  <span class="md-ellipsis">
+    Commands
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  <span class="md-ellipsis">
+    Commands
+  </span>
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Mục lục">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Mục lục
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#1-help" class="md-nav__link">
+    1. /help
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#2-ask-hoac" class="md-nav__link">
+    2. /ask hoặc //
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#3-retry" class="md-nav__link">
+    3. /retry
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#4-new" class="md-nav__link">
+    4. /new
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#5-balance" class="md-nav__link">
+    5. /balance
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#6-referral" class="md-nav__link">
+    6. /referral
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#7-pay" class="md-nav__link">
+    7. /pay
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#8-team" class="md-nav__link">
+    8. /team
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#9-team_code" class="md-nav__link">
+    9. /team_code
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#10-leave_team" class="md-nav__link">
+    10. /leave_team
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../referral-code/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Referral code
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../team-code/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Team invitation code
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../best-practices/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Best practices
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../custom-bot/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Custom bot creation
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../contact/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Contact
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Mục lục">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Mục lục
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#1-help" class="md-nav__link">
+    1. /help
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#2-ask-hoac" class="md-nav__link">
+    2. /ask hoặc //
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#3-retry" class="md-nav__link">
+    3. /retry
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#4-new" class="md-nav__link">
+    4. /new
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#5-balance" class="md-nav__link">
+    5. /balance
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#6-referral" class="md-nav__link">
+    6. /referral
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#7-pay" class="md-nav__link">
+    7. /pay
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#8-team" class="md-nav__link">
+    8. /team
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#9-team_code" class="md-nav__link">
+    9. /team_code
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#10-leave_team" class="md-nav__link">
+    10. /leave_team
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+<h1 id="cac-lenh-trong-telegpt">Các lệnh trong TeleGPT</h1>
+<h2 id="1-help">1. /help</h2>
+<p>Hiển thị tất cả các lệnh của TeleGPT và chức năng của chúng</p>
+<p><img alt="lệnh help" src="../../../static/img/usage/help.png" /></p>
+<h2 id="2-ask-hoac">2. /ask <span class="no-bold">hoặc</span> //</h2>
+<p>Lệnh này dùng trong trường hợp bạn muốn hỏi TeleGPT trong Group chat, Nếu bạn chat trực tiếp với bot thì không cần dùng lệnh này</p>
+<p><img alt="lệnh ask" src="../../../static/img/usage/ask-1.png" /></p>
+<p><img alt="lệnh //" src="../../../static/img/usage/ask-2.png" /></p>
+<p>Hơn nữa, bạn có thể tag TeleGPT trong nhóm chat để gọi bot thay vì sử dụng lệnh <strong>/ask</strong></p>
+<p><img alt="tag bot trong nhóm" src="../../../static/img/usage/ask-3.png" /></p>
+<h2 id="3-retry">3. /retry</h2>
+<p>Nếu bạn không hài lòng với câu trả lời nhận được, bạn có thể sử dụng lệnh này để yêu cầu TeleGPT đưa ra câu trả lời khác cho bạn.</p>
+<p><img alt="lệnh retry" src="../../../static/img/usage/retry.png" /></p>
+<h2 id="4-new">4. /new</h2>
+<p>Tất cả các tương tác của bạn với TeleGPT sẽ được lưu dưới dạng một cuộc đối thoại (dialouge), được thực hiện để TeleGPT lưu tất cả các câu hỏi trước đó, ngôn ngữ bạn sử dụng và ngữ cảnh của cuộc trò chuyện. Điều này giúp nâng cao trải nghiệm người dùng và cải thiện độ chính xác của câu trả lời cho các câu hỏi tiếp theo.</p>
+<p><img alt="ví dụ về dialouge" src="../../../static/img/usage/new-1.png" /></p>
+<p>Nếu bạn muốn thay đổi chủ đề hoặc nếu TeleGPT trả lời sai ngôn ngữ, bạn có thể sử dụng lệnh <strong>/new</strong> để bắt đầu một cuộc đối thoại mới và tiếp tục đặt câu hỏi.</p>
+<p><img alt="lệnh mới" src="../../../static/img/usage/new-2.png" /></p>
+<h2 id="5-balance">5. /balance</h2>
+<p>Lệnh này sẽ hiển thị cho bạn số dư còn lại trong tài khoản của bạn, mỗi truy vấn trong TeleGPT sẽ tính phí tài khoản của bạn nếu bạn đang sử dụng tài khoản <strong>REGULAR</strong>. Để tìm hiểu về <strong>số dư tài khoản</strong> và <strong>loại tài khoản</strong> hãy truy cập vào liên kết sau.</p>
+<p><img alt="lệnh balance" src="../../../static/img/usage/balance.png" /></p>
+<h2 id="6-referral">6. /referral</h2>
+<p>Lệnh này được sử dụng để hiển thị mã giới thiệu của tài khoản của bạn. Tất cả thông tin về mã giới thiệu và cách sử dụng được mô tả <a href="/vi/user-guide/referral-code">tại đây</a></p>
+<p><img alt="lệnh referral" src="../../../static/img/usage/referral.png" /></p>
+<h2 id="7-pay">7. /pay</h2>
+<p>Bạn có thể sử dụng lệnh này để nhận liên kết thanh toán tài khoản của mình, bạn có thể truy cập trang web này để nâng cấp gói TeleGPT của mình (<strong>PRO</strong> hoặc <strong>PRO Team</strong>)</p>
+<p><img alt="lệnh pay" src="../../../static/img/usage/pay.png" /></p>
+<h2 id="8-team">8. /team</h2>
+<p>Sử dụng lệnh này để tạo nhóm của riêng bạn, mỗi nhóm có thể có từ 1 đến 100 thành viên tùy thuộc vào số lượng gói nâng cấp nhóm (Team plan) mà bạn mua. Bạn chỉ có thể sử dụng lệnh này trong <strong>cuộc trò chuyện trực tiếp</strong></p>
+<p><img alt="lệnh team" src="../../../static/img/usage/team.png" /></p>
+<p>Mỗi khi sử dụng <strong>/team</strong>, bạn sẽ nhận được <strong>liên kết sử dụng 1 lần</strong> dùng để truy cập trang web quản lý nhóm của mình. Điều này có nghĩa là khi bạn đăng xuất hoặc truy cập từ thiết bị khác, bạn phải gọi lại lệnh này để nhận một liên kết mới, bạn có thể sử dụng một liên kết cũ nếu bạn truy cập từ cùng một trình duyệt trên thiết bị trước đó</p>
+<h2 id="9-team_code">9. /team_code</h2>
+<p>Bạn có thể sử dụng <strong>/team_code</strong> khi bạn chỉ là quản trị viên/chủ sở hữu nhóm. Lệnh này sẽ gửi cho bạn mã tham gia nhóm của bạn để mời người dùng khác vào nhóm của bạn (mã này có thể được gia hạn trong trang quản lý nhóm). Truy cập <a href="/vi/user-guide/team-code">tại đây</a> để biết thêm thông tin về <strong>mã tham gia nhóm</strong></p>
+<p><img alt="lệnh team_code" src="../../../static/img/usage/team_code.png" /></p>
+<h2 id="10-leave_team">10. /leave_team</h2>
+<p>Nếu bạn muốn rời nhóm hiện tại hoặc chuyển sang nhóm khác, hãy gọi <strong>/leave_team</strong> để rời khỏi nhóm.</p>
+<p><img alt="lệnh leave_team" src="../../../static/img/usage/leave_team.png" /></p>
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+    
+      
+      <nav class="md-footer__inner md-grid" aria-label="Chân trang" >
+        
+          
+          <a href="../../" class="md-footer__link md-footer__link--prev" aria-label="Trước: MuseMind" rel="prev">
+            <div class="md-footer__button md-icon">
+              
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+            </div>
+            <div class="md-footer__title">
+              <span class="md-footer__direction">
+                Trước
+              </span>
+              <div class="md-ellipsis">
+                MuseMind
+              </div>
+            </div>
+          </a>
+        
+        
+          
+          <a href="../referral-code/" class="md-footer__link md-footer__link--next" aria-label="Sau: Referral code" rel="next">
+            <div class="md-footer__title">
+              <span class="md-footer__direction">
+                Sau
+              </span>
+              <div class="md-ellipsis">
+                Referral code
+              </div>
+            </div>
+            <div class="md-footer__button md-icon">
+              
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11H4Z"/></svg>
+            </div>
+          </a>
+        
+      </nav>
+    
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+    <div class="md-copyright__highlight">
+      Copyright &copy; 2023 MuseMind.
+    </div>
+  
+  
+</div>
+      
+        <div class="md-social">
+  
+    
+    
+    
+    
+    <a href="mailto:support@musemind.net" target="_blank" rel="noopener" title="email support" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M48 64C21.5 64 0 85.5 0 112c0 15.1 7.1 29.3 19.2 38.4l217.6 163.2c11.4 8.5 27 8.5 38.4 0l217.6-163.2c12.1-9.1 19.2-23.3 19.2-38.4 0-26.5-21.5-48-48-48H48zM0 176v208c0 35.3 28.7 64 64 64h384c35.3 0 64-28.7 64-64V176L294.4 339.2a63.9 63.9 0 0 1-76.8 0L0 176z"/></svg>
+    </a>
+  
+    
+    
+    
+    
+    <a href="https://t.me/telegpt_chat" target="_blank" rel="noopener" title="telegram" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M248 8C111.033 8 0 119.033 0 256s111.033 248 248 248 248-111.033 248-248S384.967 8 248 8Zm114.952 168.66c-3.732 39.215-19.881 134.378-28.1 178.3-3.476 18.584-10.322 24.816-16.948 25.425-14.4 1.326-25.338-9.517-39.287-18.661-21.827-14.308-34.158-23.215-55.346-37.177-24.485-16.135-8.612-25 5.342-39.5 3.652-3.793 67.107-61.51 68.335-66.746.153-.655.3-3.1-1.154-4.384s-3.59-.849-5.135-.5q-3.283.746-104.608 69.142-14.845 10.194-26.894 9.934c-8.855-.191-25.888-5.006-38.551-9.123-15.531-5.048-27.875-7.717-26.8-16.291q.84-6.7 18.45-13.7 108.446-47.248 144.628-62.3c68.872-28.647 83.183-33.623 92.511-33.789 2.052-.034 6.639.474 9.61 2.885a10.452 10.452 0 0 1 3.53 6.716 43.765 43.765 0 0 1 .417 9.769Z"/></svg>
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    <script id="__config" type="application/json">{"base": "../../..", "features": ["navigation.footer"], "search": "../../../assets/javascripts/workers/search.dfff1995.min.js", "translations": {"clipboard.copied": "\u0110\u00e3 sao ch\u00e9p", "clipboard.copy": "Sao ch\u00e9p v\u00e0o b\u1ed9 nh\u1edb t\u1ea1m", "search.result.more.one": "1 t\u1eeb kh\u00e1c trong trang", "search.result.more.other": "# t\u1eeb kh\u00e1c trong trang", "search.result.none": "Kh\u00f4ng t\u00ecm th\u1ea5y t\u00e0i li\u1ec7u li\u00ean quan", "search.result.one": "1 t\u00e0i li\u1ec7u li\u00ean quan", "search.result.other": "# t\u00e0i li\u1ec7u li\u00ean quan", "search.result.placeholder": "Nh\u1eadp \u0111\u1ec3 b\u1eaft \u0111\u1ea7u t\u00ecm ki\u1ebfm", "search.result.term.missing": "Kh\u00f4ng", "select.version": "Ch\u1ecdn phi\u00ean b\u1ea3n"}}</script>
+    
+    
+      <script src="../../../assets/javascripts/bundle.dff1b7c8.min.js"></script>
+      
+    
+  </body>
+</html>
